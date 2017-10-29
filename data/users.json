@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"fName": "Anusha",
+		"lName": "Yammanur",
+		"email": "anusha.vivek@gmail.com",
+		"pinCode": "540040",
+		"birthDate": "21-03-1991",
+		"isActive": true
+	},
+	{
+		"id": 2,
+		"fName": "Manjunath",
+		"lName": "Kashyap",
+		"email": "manjunath.kash@gmail.com",
+		"pinCode": "540040",
+		"birthDate": "21-08-1986",
+		"isActive": true
+	},
+	{
+		"id": 2,
+		"fName": "Soundharyavathi",
+		"lName": "Mukkamala",
+		"email": "",
+		"pinCode": "560040",
+		"birthDate": "25-06-1960",
+		"isActive": false
+	}
+]
